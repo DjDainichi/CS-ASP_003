@@ -1,0 +1,6 @@
+C:\Users\Developer\Documents\Visual Studio 2013\Projects\Bob Tabor ASP.Net Tutorial\003_Building Your First Web App\MyFirstWebApp\MyFirstWebApp\bin\MyFirstWebApp.dll.config
+C:\Users\Developer\Documents\Visual Studio 2013\Projects\Bob Tabor ASP.Net Tutorial\003_Building Your First Web App\MyFirstWebApp\MyFirstWebApp\bin\MyFirstWebApp.dll
+C:\Users\Developer\Documents\Visual Studio 2013\Projects\Bob Tabor ASP.Net Tutorial\003_Building Your First Web App\MyFirstWebApp\MyFirstWebApp\bin\MyFirstWebApp.pdb
+C:\Users\Developer\Documents\Visual Studio 2013\Projects\Bob Tabor ASP.Net Tutorial\003_Building Your First Web App\MyFirstWebApp\MyFirstWebApp\obj\Debug\MyFirstWebApp.csprojResolveAssemblyReference.cache
+C:\Users\Developer\Documents\Visual Studio 2013\Projects\Bob Tabor ASP.Net Tutorial\003_Building Your First Web App\MyFirstWebApp\MyFirstWebApp\obj\Debug\MyFirstWebApp.dll
+C:\Users\Developer\Documents\Visual Studio 2013\Projects\Bob Tabor ASP.Net Tutorial\003_Building Your First Web App\MyFirstWebApp\MyFirstWebApp\obj\Debug\MyFirstWebApp.pdb
